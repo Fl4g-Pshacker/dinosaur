@@ -104,4 +104,4 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: 'git'
-  repository:
+  repository: https://github.com/Fl4g-Pshacker/dinosaur.git
